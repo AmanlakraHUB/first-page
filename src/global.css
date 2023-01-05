@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Eloquia+Display:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Euclid+Circular+A:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-space-grotesk: "Space Grotesk";
+  --font-euclid-circular-a: "Euclid Circular A";
+  --desktop-h5: "Eloquia Display";
+
+  /* font sizes */
+  --font-size-base: 12px;
+  --font-size-lg: 14px;
+  --font-size-xl: 16px;
+  --font-size-2xl: 18px;
+  --desktop-h5-size: 20px;
+  --font-size-4xl: 21px;
+
+  /* Colors */
+  --grey-light: #f6f5f9;
+  --gray-6: #f2f2f2;
+  --color-gray-300: #f0effd;
+  --color-gray-400: #efefef;
+  --text-example: #c4c4c4;
+  --gray-3: #828282;
+  --dark-text: #5c5c5c;
+  --gray-1: #333;
+  --text-text-01: #2f3031;
+  --dark: #1e1e1e;
+  --white: #fff;
+  --purple: #793ef5;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-sm: 4px;
+  --gap-md: 8px;
+  --gap-lg: 10px;
+  --gap-xl: 12px;
+
+  /* Paddings */
+  --padding-xs: 4px;
+  --padding-sm: 6px;
+  --padding-md: 8px;
+  --padding-lg: 12px;
+  --padding-xl: 16px;
+
+  /* border radiuses */
+  --br-2xs: 4px;
+  --br-xs: 8px;
+  --br-sm: 12px;
+  --br-md: 16px;
+  --br-lg: 20px;
+  --br-xl: 40px;
+}
